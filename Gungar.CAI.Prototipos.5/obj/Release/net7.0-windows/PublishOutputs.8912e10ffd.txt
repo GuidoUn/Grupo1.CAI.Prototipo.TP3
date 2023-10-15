@@ -1,0 +1,5 @@
+D:\Escritorio\UBA\CAI\repos\Prototipos\Gungar.CAI.Prototipos.5\Gungar.CAI.Prototipos.5\bin\Release\net7.0-windows\app.publish\Gungar.CAI.Prototipos.5.exe
+D:\Escritorio\UBA\CAI\repos\Prototipos\Gungar.CAI.Prototipos.5\Gungar.CAI.Prototipos.5\bin\Release\net7.0-windows\app.publish\Gungar.CAI.Prototipos.5.dll
+D:\Escritorio\UBA\CAI\repos\Prototipos\Gungar.CAI.Prototipos.5\Gungar.CAI.Prototipos.5\bin\Release\net7.0-windows\app.publish\Gungar.CAI.Prototipos.5.deps.json
+D:\Escritorio\UBA\CAI\repos\Prototipos\Gungar.CAI.Prototipos.5\Gungar.CAI.Prototipos.5\bin\Release\net7.0-windows\app.publish\Gungar.CAI.Prototipos.5.runtimeconfig.json
+D:\Escritorio\UBA\CAI\repos\Prototipos\Gungar.CAI.Prototipos.5\Gungar.CAI.Prototipos.5\bin\Release\net7.0-windows\app.publish\Gungar.CAI.Prototipos.5.pdb
